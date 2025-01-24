@@ -1,9 +1,0 @@
-@import "bootstrap/scss/bootstrap";
-
-.control-button {
-    @extend .btn-outline-light;
-    border: var(--bs-border-width) solid var(--bs-border-color);
-    &:hover {
-        background-color: rgba(255, 255, 255, 0.7);
-    }
-}
